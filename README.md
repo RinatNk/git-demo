@@ -20,3 +20,5 @@ Thanks for your attention.
 Спасибо за внимание.
 
 Спасибо разработчикам [JavaRush](https://javarush.com)
+
+Также спасибо нашему ментору Александру
