@@ -19,4 +19,4 @@ Thanks for your attention.
 
 Спасибо за внимание.
 
-Спасибо разработчикам [JavaRush](https:javarush.com)
+Спасибо разработчикам [JavaRush](https://javarush.com)
